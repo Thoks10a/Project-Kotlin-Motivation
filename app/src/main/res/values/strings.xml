@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="infinity">Infinity</string>
+    <string name="face">Face</string>
+    <string name="sunny">Sunny</string>
+    <string name="nova_frase">Nova Frase</string>
+    <string name="vamos_come_ar">Vamos Começar ?</string>
+    <string name="digite_seu_nome">Digite seu nome...</string>
+    <string name="salvar_nome">Salvar Nome</string>
+</resources>

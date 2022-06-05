@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="face">Face</string>
+    <string name="sunny">Sunny</string>
+    <string name="nova_frase">Nova Frase</string>
+    <string name="vamos_come_ar">Vamos Começar ?</string>
+    <string name="digite_seu_nome">Digite seu nome...</string>
+</resources>
