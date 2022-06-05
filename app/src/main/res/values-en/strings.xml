@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Motivation</string>
+    <string name="infinity">Infinity</string>
+    <string name="face">Face</string>
+    <string name="sunny">Sunny</string>
+    <string name="nova_frase">New phrase</string>
+    <string name="vamos_come_ar">Let\'s get started ?</string>
+    <string name="digite_seu_nome">Write your name…</string>
+    <string name="salvar_nome">Save your name</string>
+    <string name="hi">Hi, </string>
+</resources>

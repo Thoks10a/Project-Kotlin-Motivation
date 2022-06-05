@@ -5,6 +5,7 @@
     <string name="sunny">Sunny</string>
     <string name="nova_frase">Nova Frase</string>
     <string name="vamos_come_ar">Vamos Começar ?</string>
-    <string name="digite_seu_nome">Digite seu nome...</string>
+    <string name="digite_seu_nome">Digite seu nome…</string>
     <string name="salvar_nome">Salvar Nome</string>
+    <string name="hi">Olá, </string>
 </resources>

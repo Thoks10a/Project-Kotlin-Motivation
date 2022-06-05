@@ -7,6 +7,7 @@ import android.view.LayoutInflater
 import android.view.View
 import androidx.core.content.ContextCompat
 import com.example.motivation.databinding.ActivityMainBinding
+import java.util.*
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
 
@@ -81,11 +82,12 @@ class MainActivity : AppCompatActivity(), View.OnClickListener {
     }
 
     private fun handleNextPhrase(){
-        binding.MessageViewID.text = Mock().getPhrase(categoryId)
+        binding.MessageViewID.text = Mock().getPhrase(categoryId, Locale.getDefault().language)
     }
 
     private fun HandleUserName(){
         val name = SecurityPreferences(this).getString(MotivationConstants.key.USER_NAME)
-        binding.NameViewID.text = "Olá, ${name}!"
+        val hi = getString(R.string.hi)
+        binding.NameViewID.text = hi + "${name}!"
     }
 }
